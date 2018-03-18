@@ -14,3 +14,25 @@
 3*/
 
 
+#include<iostream>
+#include<math.h>
+
+using namespace std;
+
+int main(){
+
+    int n;
+    while(cin>>n){
+        int x=n/8,y;
+        int res=n-8*x;
+        if(res < 6 && res != 0){
+            x--;
+            res+=8;
+        }
+        y = res / 6;
+        if (res % 6 == 0) cout << x + y << endl;
+        else cout << -1 << endl;
+    }
+
+    return 0;
+}

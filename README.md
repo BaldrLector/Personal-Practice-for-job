@@ -5,9 +5,11 @@ This is Personal Practice for job
 
 ## 2017 校招编程
 
-- netbase
+- 网易
 
-- Tencent
+- 腾讯
+
+- 滴滴出行
 
 - 数据库SQL实战
 
