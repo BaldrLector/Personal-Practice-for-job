@@ -1,9 +1,14 @@
 # Personal-Practice-for-job
 This is Personal Practice for job
 
-# List
+# WorkList
 
-### 牛客
-- 网易
+## 2017 校招编程
+
+- netbase
+
+- Tencent
+
 - 数据库SQL实战
-- 剑指offer
+
+## 剑指offer
