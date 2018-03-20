@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\71000\CLionProjects\Personal-Practice-for-job
