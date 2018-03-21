@@ -39,19 +39,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c99cc49b-4d4f-488c-a789-772fb1b29b83" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/360/最强大脑.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/好未来/n个数里出现次数大于等于一半的数.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/好未来/n个数里最小的k个.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/好未来/倒置字符串.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/好未来/删除公共字符.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/好未来/字符串中找出连续最长的数字串.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/好未来/求和.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/滴滴出行/地下迷宫.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/滴滴出行/数字和为sum的方法数.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/滴滴出行/末尾0的个数.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/滴滴出行/进制转换.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/京东/保卫方案.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/京东/幸运数.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/京东/进制均值.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/京东/集合.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/今日头条/头条校招.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/今日头条/字典序.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/今日头条/异或.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/去哪儿网/filename.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/去哪儿网/统计字符.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/去哪儿网/身份证分组.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/去哪儿网/酒店价格.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/搜狐/保留最大的数.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/搜狐/彩色宝石项链.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/搜狐/袋鼠过河.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/网易/合唱团.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/美团点评/丢失的三个数.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/美团点评/拼凑面额.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/美团点评/整数加法.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2017校招编程/美团点评/网格走法数目.cpp" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2017校招编程/360/最强大脑.cpp" afterPath="$PROJECT_DIR$/2017校招编程/360/最强大脑.cpp" />
+      <change beforePath="$PROJECT_DIR$/2017校招编程/网易/合唱团.cpp" afterPath="$PROJECT_DIR$/2017校招编程/网易/合唱团.cpp" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,28 +72,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="求和.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2017校招编程/好未来/求和.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="最强大脑.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2017校招编程/360/最强大脑.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -96,26 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/niuke/数据库SQL实战/获取所有部门当前manager的当前薪水情况.md" />
-        <option value="$PROJECT_DIR$/niuke/数据库SQL实战/获取所有非manager的员工emp_no.md" />
-        <option value="$PROJECT_DIR$/niuke/数据库SQL实战/获取所有员工当前的manager.md" />
-        <option value="$PROJECT_DIR$/niuke/数据库SQL实战/获取所有部门中当前员工薪水最高的相关信息.md" />
-        <option value="$PROJECT_DIR$/niuke/数据库SQL实战/从titles表获取按照title进行分组.md" />
-        <option value="$PROJECT_DIR$/niuke/数据库SQL实战/从titles表获取按照title进行分组，对于重复的emp_no进行忽略.md" />
-        <option value="$PROJECT_DIR$/niuke/数据库SQL实战/查找employees表所有emp_no为奇数.md" />
-        <option value="$PROJECT_DIR$/niuke/数据库SQL实战/统计出当前各个title类型对应的员工当前薪水对应的平均工资.md" />
-        <option value="$PROJECT_DIR$/niuke/数据库SQL实战/获取当前（to_date='9999-01-01'）薪水第二多的员工.md" />
-        <option value="$PROJECT_DIR$/niuke/数据库SQL实战/查找当前薪水(to_date='9999-01-01')排名第二多的员工编号emp_no、薪水salary、last_name以及first_name，不准使用order by.md" />
-        <option value="$PROJECT_DIR$/niuke/数据库SQL实战/查找所有员工的last_name和first_name以及对应的dept_name，也包括暂时没有分配部门的员工.md" />
-        <option value="$PROJECT_DIR$/niuke/数据库SQL实战/查找员工编号emp_now为10001其自入职以来的薪水salary涨幅值growth.md" />
-        <option value="$PROJECT_DIR$/niuke/腾讯/编码.cpp" />
-        <option value="$PROJECT_DIR$/niuke/腾讯/游戏任务标记.cpp" />
-        <option value="$PROJECT_DIR$/niuke/腾讯/素数对.cpp" />
-        <option value="$PROJECT_DIR$/niuke/腾讯/geohash编码.cpp" />
-        <option value="$PROJECT_DIR$/2017校招编程/网易/混合颜料.cpp" />
-        <option value="$PROJECT_DIR$/2017校招编程/网易/幸运的袋子.cpp" />
-        <option value="$PROJECT_DIR$/2017校招编程/网易/不要二.cpp" />
-        <option value="$PROJECT_DIR$/2017校招编程/网易/解救小易.cpp" />
         <option value="$PROJECT_DIR$/2017校招编程/网易/统计回文.cpp" />
         <option value="$PROJECT_DIR$/2017校招编程/网易/饥饿的小易.cpp" />
         <option value="$PROJECT_DIR$/2017校招编程/网易/两种排序方法.cpp" />
@@ -132,7 +101,6 @@
         <option value="$PROJECT_DIR$/2017校招编程/网易/最大的奇约数.cpp" />
         <option value="$PROJECT_DIR$/2017校招编程/网易/买苹果.cpp" />
         <option value="$PROJECT_DIR$/2017校招编程/网易/计算糖果.cpp" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/2017校招编程/滴滴出行/连续最大和.cpp" />
         <option value="$PROJECT_DIR$/2017校招编程/滴滴出行/餐馆.cpp" />
         <option value="$PROJECT_DIR$/2017校招编程/滴滴出行/地下迷宫.cpp" />
@@ -147,6 +115,27 @@
         <option value="$PROJECT_DIR$/2017校招编程/好未来/删除公共字符.cpp" />
         <option value="$PROJECT_DIR$/2017校招编程/好未来/求和.cpp" />
         <option value="$PROJECT_DIR$/2017校招编程/360/最强大脑.cpp" />
+        <option value="$PROJECT_DIR$/2017校招编程/今日头条/头条校招.cpp" />
+        <option value="$PROJECT_DIR$/2017校招编程/今日头条/异或.cpp" />
+        <option value="$PROJECT_DIR$/2017校招编程/今日头条/字典序.cpp" />
+        <option value="$PROJECT_DIR$/2017校招编程/京东/保卫方案.cpp" />
+        <option value="$PROJECT_DIR$/2017校招编程/京东/集合.cpp" />
+        <option value="$PROJECT_DIR$/2017校招编程/京东/进制均值.cpp" />
+        <option value="$PROJECT_DIR$/2017校招编程/京东/幸运数.cpp" />
+        <option value="$PROJECT_DIR$/2017校招编程/美团点评.cpp" />
+        <option value="$PROJECT_DIR$/2017校招编程/美团点评/网格走法数目.cpp" />
+        <option value="$PROJECT_DIR$/2017校招编程/美团点评/拼凑面额.cpp" />
+        <option value="$PROJECT_DIR$/2017校招编程/美团点评/整数加法.cpp" />
+        <option value="$PROJECT_DIR$/2017校招编程/去哪儿网/filename.cpp" />
+        <option value="$PROJECT_DIR$/2017校招编程/去哪儿网/酒店价格.cpp" />
+        <option value="$PROJECT_DIR$/2017校招编程/去哪儿网/身份证分组.cpp" />
+        <option value="$PROJECT_DIR$/2017校招编程/去哪儿网/统计字符.cpp" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/2017校招编程/搜狐/保留最大的数.cpp" />
+        <option value="$PROJECT_DIR$/2017校招编程/搜狐/彩色宝石项链.cpp" />
+        <option value="$PROJECT_DIR$/2017校招编程/搜狐/袋鼠过河.cpp" />
+        <option value="$PROJECT_DIR$/2017校招编程/网易/合唱团.cpp" />
+        <option value="$PROJECT_DIR$/2017校招编程/网易/合唱团.py" />
       </list>
     </option>
   </component>
@@ -159,8 +148,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1552" />
-    <option name="height" value="880" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -192,6 +181,18 @@
               <item name="Personal-Practice-for-job" type="462c0819:PsiDirectoryNode" />
               <item name="2017校招编程" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Personal-Practice-for-job" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Personal-Practice-for-job" type="462c0819:PsiDirectoryNode" />
+              <item name="2017校招编程" type="462c0819:PsiDirectoryNode" />
+              <item name="搜狐" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Personal-Practice-for-job" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Personal-Practice-for-job" type="462c0819:PsiDirectoryNode" />
+              <item name="2017校招编程" type="462c0819:PsiDirectoryNode" />
+              <item name="网易" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -202,9 +203,14 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pat" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\71000\CLionProjects\Personal-Practice-for-job\2017校招编程\网易" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\71000\CLionProjects\Personal-Practice-for-job\2017校招编程\美团点评" />
       <recent name="C:\Users\71000\CLionProjects\Personal-Practice-for-job\2017校招编程\好未来" />
       <recent name="C:\Users\71000\CLionProjects\Personal-Practice-for-job" />
       <recent name="C:\Users\71000\CLionProjects\Personal-Practice-for-job\niuke\2017校招编程" />
@@ -245,6 +251,9 @@
       <workItem from="1521286859094" duration="2301000" />
       <workItem from="1521375444345" duration="6296000" />
       <workItem from="1521434788335" duration="8902000" />
+      <workItem from="1521543911492" duration="5004000" />
+      <workItem from="1521607488486" duration="9620000" />
+      <workItem from="1521634333091" duration="4027000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1520579555381</created>
@@ -271,7 +280,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38650000" />
+    <option name="totallyTimeSpent" value="57301000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -283,12 +292,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1552" height="840" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18328841" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19111349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988507" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23394495" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23333333" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -350,184 +358,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2017校招编程/数据库SQL实战/查找薪水涨幅超过15次的员工号.md" />
-    <entry file="file://$PROJECT_DIR$/2017校招编程/数据库SQL实战/获取所有非manager的员工emp_no.md" />
-    <entry file="file://$PROJECT_DIR$/2017校招编程/数据库SQL实战/获取所有员工当前的manager.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017校招编程/数据库SQL实战/获取所有部门当前manager的当前薪水情况.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="138">
-            <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017校招编程/数据库SQL实战/获取所有部门中当前员工薪水最高的相关信息.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="437">
-            <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017校招编程/数据库SQL实战/从titles表获取按照title进行分组.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="253">
-            <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017校招编程/数据库SQL实战/从titles表获取按照title进行分组，对于重复的emp_no进行忽略.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="253">
-            <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017校招编程/数据库SQL实战/查找employees表所有emp_no为奇数.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="322">
-            <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017校招编程/数据库SQL实战/统计出当前各个title类型对应的员工当前薪水对应的平均工资.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="437">
-            <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017校招编程/数据库SQL实战/获取当前（to_date='9999-01-01'）薪水第二多的员工.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="207">
-            <caret line="9" column="102" lean-forward="false" selection-start-line="9" selection-start-column="102" selection-end-line="9" selection-end-column="102" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017校招编程/数据库SQL实战/查找当前薪水(to_date='9999-01-01')排名第二多的员工编号emp_no、薪水salary、last_name以及first_name，不准使用order by.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="460">
-            <caret line="20" column="64" lean-forward="false" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017校招编程/数据库SQL实战/查找所有员工的last_name和first_name以及对应的dept_name，也包括暂时没有分配部门的员工.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="529">
-            <caret line="23" column="57" lean-forward="false" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017校招编程/数据库SQL实战/查找员工编号emp_now为10001其自入职以来的薪水salary涨幅值growth.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="276">
-            <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017校招编程/腾讯/编码.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="38" column="12" lean-forward="true" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017校招编程/腾讯/素数对.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017校招编程/腾讯/游戏任务标记.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="66" column="1" lean-forward="false" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017校招编程/腾讯/geohash编码.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="38" column="10" lean-forward="true" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017校招编程/网易/混合颜料.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="108" column="1" lean-forward="false" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017校招编程/网易/幸运的袋子.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="77" column="1" lean-forward="false" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017校招编程/网易/不要二.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2017校招编程/网易/解救小易.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
@@ -640,19 +470,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="145">
-            <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2017校招编程/网易/计算糖果.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="706">
@@ -664,7 +481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="851">
           <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -672,7 +488,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="52" column="1" lean-forward="false" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -680,7 +495,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -688,7 +502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -696,7 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="55" column="1" lean-forward="false" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,7 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="48" column="1" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,7 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
           <caret line="46" column="1" lean-forward="false" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -720,7 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="43" column="1" lean-forward="false" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -728,7 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -736,7 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -744,22 +551,177 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017校招编程/好未来/求和.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2017校招编程/360/最强大脑.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="754">
+          <caret line="41" column="36" lean-forward="false" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/好未来/求和.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/今日头条/头条校招.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="64" column="23" lean-forward="true" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/今日头条/字典序.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="65" column="1" lean-forward="false" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/今日头条/异或.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-584">
+          <caret line="66" column="10" lean-forward="true" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/京东/保卫方案.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="76" column="1" lean-forward="false" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/京东/集合.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/京东/进制均值.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="55" column="1" lean-forward="false" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/美团点评/丢失的三个数.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/京东/幸运数.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="48" column="1" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/美团点评/网格走法数目.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="39" column="1" lean-forward="false" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/美团点评/拼凑面额.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="27" column="11" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/美团点评/整数加法.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="63" column="4" lean-forward="false" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/去哪儿网/filename.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="36" column="1" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/去哪儿网/酒店价格.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="40" column="31" lean-forward="false" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/去哪儿网/身份证分组.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="50" column="1" lean-forward="false" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="506">
+            <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/搜狐/保留最大的数.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="36" column="1" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/去哪儿网/统计字符.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="35" column="1" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/搜狐/彩色宝石项链.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="66" lean-forward="false" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/搜狐/袋鼠过河.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="21" column="11" lean-forward="false" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/网易/合唱团.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="78" column="34" lean-forward="true" selection-start-line="78" selection-start-column="34" selection-end-line="78" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017校招编程/网易/合唱团.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding />
         </state>
       </provider>
