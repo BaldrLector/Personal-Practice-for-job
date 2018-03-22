@@ -23,3 +23,29 @@ for kk in range(k):
             fmax[kk][i], fmin[kk][i] = max(M), min(M)
 
 print(max(fmax[k-1]))
+
+
+
+#
+#
+# n = int(input())
+#
+# a = list(map(int, input().split()))
+# k, d = map(int, input().split())
+#
+# fmax = [[0 for i in range(k+1)] for i in range(n)]
+# fmin = [[0 for i in range(k+1)] for i in range(n)]
+#
+# for i in range(n):
+#     fmax[i][1] = a[i]
+#     fmin[i][1] = a[i]
+#
+# for i in range(n):
+#     for j in range(2, k + 1):
+#         for m in range(max(i - d, 0), i):
+#             fmax[i][j] = max(fmax[i][j], fmax[m][j - 1] * a[i], fmin[m][j - 1] * a[i])
+#             fmin[i][j] = min(fmin[i][j], fmax[m][j - 1] * a[i], fmin[m][j - 1] * a[i])
+#
+# temp=[fmax[i][k] for i in range(n)]
+# maxV = max(temp)
+# print(maxV)
